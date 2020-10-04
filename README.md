@@ -1,3 +1,3 @@
 # Demo
 
-Some plain text for testing. 
+Some plain text for testing!
